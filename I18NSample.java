@@ -24,5 +24,6 @@ public class I18NSample {
         System.out.println(messages.getString("greetings"));
         System.out.println(messages.getString("inquiry"));
         System.out.println(messages.getString("farewell"));
+        System.out.println(messages.getString("greetings"));
     }
 }
